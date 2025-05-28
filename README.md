@@ -6,7 +6,7 @@ I made Beargrease (portable CI harness for Solana) and ci-proof-core (the first 
 I work on problems that others avoid—because someone has to.
 
 If it runs, it runs clean. If it breaks, you’ll see why.
-- 📫 Contact me at rgmelvinphd@gmail.com
+- 📫 Contact me at cabrilloweb3@gmail.com or rgmelvinphd@gmail.com
 
 <!---
 rgmelvin/rgmelvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
